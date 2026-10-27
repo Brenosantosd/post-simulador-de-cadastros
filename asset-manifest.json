@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/post-simulador-de-cadastros/static/css/main.ca5a2181.css",
+    "main.js": "/post-simulador-de-cadastros/static/js/main.1704f29e.js",
+    "index.html": "/post-simulador-de-cadastros/index.html",
+    "main.ca5a2181.css.map": "/post-simulador-de-cadastros/static/css/main.ca5a2181.css.map",
+    "main.1704f29e.js.map": "/post-simulador-de-cadastros/static/js/main.1704f29e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca5a2181.css",
+    "static/js/main.1704f29e.js"
+  ]
+}
